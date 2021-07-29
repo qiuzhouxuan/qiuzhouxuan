@@ -1,0 +1,40 @@
+{
+  "name": "test_with_trivial_severity_3",
+  "status": "passed",
+  "start": 1627452356488,
+  "stop": 1627452356488,
+  "uuid": "3e7d8c0c-b469-4e11-9659-42d5280b2291",
+  "historyId": "6ea6a85c41dc66408dc29cda8d30674a",
+  "testCaseId": "92d3ede8a4de3d62f800f5427d0507ae",
+  "fullName": "pytest_allure_sevenrity#test_with_trivial_severity_3",
+  "labels": [
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "pytest_allure_sevenrity"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "21400-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "pytest_allure_sevenrity"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "test_with_testcase_link",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "022f1397-801e-4b44-9b09-abb157fdabb8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1627366445628,
+  "stop": 1627366445629,
+  "uuid": "ac014f9d-e394-4dfc-b8b9-7fb0152ad8ba",
+  "historyId": "1746a15b60d09ea67247674432fb24f7",
+  "testCaseId": "aa461ec08d55eeba527d794702af40ac",
+  "fullName": "pytest_issue_testcase#test_with_testcase_link",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "pytest_issue_testcase"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "4276-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "pytest_issue_testcase"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http://www.baidu.com",
+      "name": "链接2"
+    }
+  ]
+}

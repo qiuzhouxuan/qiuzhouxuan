@@ -1,0 +1,51 @@
+{
+  "name": "test_02",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "6d512c9b-c5d4-4d71-bdbf-299b0b692e77-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1627351972545,
+  "stop": 1627351972546,
+  "uuid": "bc229289-5e0b-4272-95c5-bc4ba05c7dbc",
+  "historyId": "f2b6f65f90aa8016fa3c77293cc9c689",
+  "testCaseId": "acc7f42b1f682970ec96fb2f61928929",
+  "fullName": "test_01.TestFCArequest#test_02",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=6)"
+    },
+    {
+      "name": "suite",
+      "value": "test_01"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFCArequest"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "29340-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_01"
+    }
+  ]
+}

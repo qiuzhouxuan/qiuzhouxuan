@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Jul 26 17:08:10 CST 2021","Mon Jul 26 17:08:10 CST 2021","0","","pytest_Allure","","","","test_skip",""
+"failed","Mon Jul 26 17:08:10 CST 2021","Mon Jul 26 17:08:10 CST 2021","0","","pytest_Allure","","","","test_failure",""
+"passed","Mon Jul 26 17:08:10 CST 2021","Mon Jul 26 17:08:10 CST 2021","0","","pytest_Allure","","","","test_success",""
+"broken","Mon Jul 26 17:08:10 CST 2021","Mon Jul 26 17:08:10 CST 2021","0","","pytest_Allure","","","","test_broken",""

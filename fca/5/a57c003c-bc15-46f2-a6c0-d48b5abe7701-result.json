@@ -1,0 +1,43 @@
+{
+  "name": "test_with_issue_link",
+  "status": "passed",
+  "start": 1627367213652,
+  "stop": 1627367213652,
+  "uuid": "91d54333-ca09-45e0-a06a-47f5ab64dd04",
+  "historyId": "4d660f1cd99cdfbfe64e9bed126636cc",
+  "testCaseId": "589a4ccc6c7c5ff87df82a88e5f60476",
+  "fullName": "pytest_issue_testcase#test_with_issue_link",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "pytest_issue_testcase"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "31712-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "pytest_issue_testcase"
+    }
+  ],
+  "links": [
+    {
+      "type": "issue",
+      "url": "140",
+      "name": "这是一个issure"
+    }
+  ]
+}

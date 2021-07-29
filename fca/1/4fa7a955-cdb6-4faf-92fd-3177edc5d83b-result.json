@@ -1,0 +1,47 @@
+{
+  "name": "test_get_vin2",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "2447af08-c4af-4d52-8b36-fc1b694ab68f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1627351972875,
+  "stop": 1627351973081,
+  "uuid": "cdda65b5-eb95-4ad1-a8a1-464b27e15c0f",
+  "historyId": "463c2409d54ca5dc1a0981665ce7f900",
+  "testCaseId": "6376db323b009b0ff3a164decb2acdf6",
+  "fullName": "test_01.TestFCArequest#test_get_vin2",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_01"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFCArequest"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "29340-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_01"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+python3 -m venv tutorial-env
+Windows创建虚拟环境
+tutorial-env\Scripts\activate.bat
+进入虚拟环境

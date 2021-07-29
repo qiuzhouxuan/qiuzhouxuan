@@ -1,0 +1,85 @@
+{
+  "name": "test_step_demo[阳逻]",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "打开浏览器页面",
+      "status": "passed",
+      "start": 1627524925351,
+      "stop": 1627524928535
+    },
+    {
+      "name": "输入关键搜索词:阳逻",
+      "status": "passed",
+      "start": 1627524928535,
+      "stop": 1627524932853
+    },
+    {
+      "name": "保存图片",
+      "status": "passed",
+      "attachments": [
+        {
+          "source": "40b424c3-98cb-4d93-843c-ddaae025fa87-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "start": 1627524932853,
+      "stop": 1627524933376
+    },
+    {
+      "name": "关闭浏览器",
+      "status": "passed",
+      "start": 1627524933376,
+      "stop": 1627524935642
+    }
+  ],
+  "parameters": [
+    {
+      "name": "test_data1",
+      "value": "'阳逻'"
+    }
+  ],
+  "start": 1627524925351,
+  "stop": 1627524935642,
+  "uuid": "3ab12986-f01b-42f4-9ef5-6234e5ea44e8",
+  "historyId": "920502d7d0c6205b9cfa83653b5a7cfa",
+  "testCaseId": "f2c1f494a1a4e9154c946075956925e8",
+  "fullName": "test_pytest_allure_selenium#test_step_demo",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "百度搜索"
+    },
+    {
+      "name": "suite",
+      "value": "test_pytest_allure_selenium"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "22540-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_pytest_allure_selenium"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http://www.githup.com",
+      "name": "http://www.githup.com"
+    }
+  ]
+}

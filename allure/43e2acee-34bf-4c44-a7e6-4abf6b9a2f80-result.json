@@ -1,0 +1,40 @@
+{
+  "name": "test_skip",
+  "status": "skipped",
+  "statusDetails": {
+    "message": "Skipped: for a reason!",
+    "trace": "('C:\\\\Users\\\\邱州炫\\\\Desktop\\\\study\\\\pytest_Allure.py', 7, 'Skipped: for a reason!')"
+  },
+  "start": 1627290573515,
+  "stop": 1627290573515,
+  "uuid": "070bb4ba-56b8-4a91-a8bb-2b86064b9e7d",
+  "historyId": "50900f7571aa96dadb433e5c5bf7deed",
+  "testCaseId": "cb738d4fdacb6a863d3f3ed7d2c76582",
+  "fullName": "pytest_Allure#test_skip",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "pytest_Allure"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "24240-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "pytest_Allure"
+    }
+  ]
+}

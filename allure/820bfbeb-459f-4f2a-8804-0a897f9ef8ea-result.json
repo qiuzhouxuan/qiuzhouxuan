@@ -1,0 +1,36 @@
+{
+  "name": "test_success",
+  "status": "passed",
+  "start": 1627290573457,
+  "stop": 1627290573458,
+  "uuid": "f176e5ab-575b-4afb-9599-aa49dbb3c585",
+  "historyId": "3b82281ece934fe8593921e04c37ac8f",
+  "testCaseId": "47e2a837895b1b19e522d5a5a8562612",
+  "fullName": "pytest_Allure#test_success",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "pytest_Allure"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "24240-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "pytest_Allure"
+    }
+  ]
+}

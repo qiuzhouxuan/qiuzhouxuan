@@ -1,0 +1,85 @@
+{
+  "name": "test_step_demo[allure]",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "打开浏览器页面",
+      "status": "passed",
+      "start": 1627524136674,
+      "stop": 1627524142520
+    },
+    {
+      "name": "输入关键搜索词:allure",
+      "status": "passed",
+      "start": 1627524142520,
+      "stop": 1627524146761
+    },
+    {
+      "name": "保存图片",
+      "status": "passed",
+      "attachments": [
+        {
+          "source": "cccd6324-e91e-4052-b014-84f468e5ac99-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "start": 1627524146761,
+      "stop": 1627524146935
+    },
+    {
+      "name": "关闭浏览器",
+      "status": "passed",
+      "start": 1627524146935,
+      "stop": 1627524149453
+    }
+  ],
+  "parameters": [
+    {
+      "name": "test_data1",
+      "value": "'allure'"
+    }
+  ],
+  "start": 1627524136673,
+  "stop": 1627524149453,
+  "uuid": "3037e6ec-494c-4d58-a6ab-6e96768884d5",
+  "historyId": "82858b7842920a988d98b0eb7de7716d",
+  "testCaseId": "f2c1f494a1a4e9154c946075956925e8",
+  "fullName": "test_pytest_allure_selenium#test_step_demo",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "百度搜索"
+    },
+    {
+      "name": "suite",
+      "value": "test_pytest_allure_selenium"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "29280-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_pytest_allure_selenium"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http://www.githup.com",
+      "name": "http://www.githup.com"
+    }
+  ]
+}

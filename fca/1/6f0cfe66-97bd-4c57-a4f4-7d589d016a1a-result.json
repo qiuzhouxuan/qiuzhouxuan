@@ -1,0 +1,48 @@
+{
+  "name": "test_04",
+  "status": "failed",
+  "statusDetails": {
+    "message": "AssertionError: assert 11 == 12",
+    "trace": "self = <test_01.TestFCArequest object at 0x000001E43F0AA0D0>\n\n    @pytest.mark.run(order=2)\n    def test_04(self):\n>       assert  11==12\nE       assert 11 == 12\n\ntest_01.py:50: AssertionError"
+  },
+  "start": 1627351972551,
+  "stop": 1627351972551,
+  "uuid": "b1e5b79d-08a9-480b-90cd-26465468f6cf",
+  "historyId": "1683b8a74e22a11bf95199ffba07050b",
+  "testCaseId": "9c0aecd24b4ae101f67f6557855fe318",
+  "fullName": "test_01.TestFCArequest#test_04",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=2)"
+    },
+    {
+      "name": "suite",
+      "value": "test_01"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFCArequest"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-V2RHK3K3"
+    },
+    {
+      "name": "thread",
+      "value": "29340-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_01"
+    }
+  ]
+}
